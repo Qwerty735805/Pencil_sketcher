@@ -1,0 +1,6 @@
+flask
+imutils
+opencv-python
+requests
+gunicorn
+opencv-python-headless
